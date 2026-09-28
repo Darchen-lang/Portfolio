@@ -33,6 +33,15 @@ const projects=[
   tags :["Arduino","computer vision","ROS2","NLP"],
   demoUrl: "#",
   githubUrl: "https://github.com/Darchen-lang/robolimb",
+  },
+  {
+  id: 5,
+  title: "Quantum Agile Security System",
+  description :" A modular, quantum-aware security architecture that integrates post-quantum cryptography and automated benchmarking pipelines to future-proof data protection against emerging computational threats.",
+  image: "/projects/qass.png",
+  tags :["Python","Qiskit","Cryptography"],
+  demoUrl: "#",
+  githubUrl: "https://github.com/Darchen-lang/QASS",
   }
   
 ]
