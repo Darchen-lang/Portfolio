@@ -14,6 +14,9 @@ const skills = [
   { name: "Git/GitHub", level: 50, category: "tools" },
   { name: "AWS", level: 15, category: "tools" },
   { name: "VS Code", level: 50, category: "tools" },
+  { name: "AutoDesk Fusion 360", level: 75, category: "tools" },
+  { name: "FDM Slicer softwwares", level: 75, category: "tools" },
+
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];

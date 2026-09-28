@@ -24,7 +24,17 @@ const projects=[
   description :"Arduino based 2 dimensional cnc pen plotter.",
   image: "/projects/cnc.png",
   tags :["Arduino","CNC Shield","G-code"]
+  },
+  {
+  id: 4,
+  title: "Robotic Arm",
+  description :"Four DOF Robotic ARM controlled using ROS2 and computer vision.",
+  image: "/projects/cnc.png",
+  tags :["Arduino","computer vision","ROS2","NLP"],
+  demoUrl: "#",
+  githubUrl: "https://github.com/Darchen-lang/robolimb",
   }
+  
 ]
 
 export const ProjectsSection = () => {
