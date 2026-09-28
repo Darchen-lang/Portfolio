@@ -78,9 +78,7 @@ export const ContactSection = () => {
                     <a href="https://www.linkedin.com/in/samaksh-choudhary-78147334b/" target="_blank">
                         <Linkedin className="h-6 w-6 hover:text-primary transition-colors" />
                     </a>
-                    <a href="https://www.instagram.com/_s.a.m.a.k.s.h_?igsh=czZhNWNmMjZlcXM2" target="_blank">
-                        <Instagram className="h-6 w-6 hover:text-primary transition-colors" />
-                    </a>
+                    
                 </div>
             </div>
 
