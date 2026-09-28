@@ -42,6 +42,15 @@ const projects=[
   tags :["Python","Qiskit","Cryptography"],
   demoUrl: "#",
   githubUrl: "https://github.com/Darchen-lang/QASS",
+  },
+  {
+  id: 6,
+  title: "Survival Mesh",
+  description :"An offline survival platform combining multi-hop peer-to-peer communication with integrated offline mapping to provide resilient messaging and navigation in internet-denied environments.",
+  image: "/projects/survival.png",
+  tags :["TypeScript","Kotlin"],
+  demoUrl: "#",
+  githubUrl: "https://github.com/Darchen-lang/SURVIVAL_MESH",
   }
   
 ]
