@@ -28,7 +28,7 @@ const projects=[
   {
   id: 4,
   title: "Robotic Arm",
-  description :"Four DOF Robotic ARM controlled using ROS2 and computer vision.",
+  description :" Voice controlled four DOF Robotic ARM using ROS2.",
   image: "/projects/robotic_arm.png",
   tags :["Arduino","computer vision","ROS2","NLP"],
   demoUrl: "#",
