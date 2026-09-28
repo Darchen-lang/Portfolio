@@ -29,7 +29,7 @@ const projects=[
   id: 4,
   title: "Robotic Arm",
   description :"Four DOF Robotic ARM controlled using ROS2 and computer vision.",
-  image: "/projects/cnc.png",
+  image: "/projects/robotic_arm.png",
   tags :["Arduino","computer vision","ROS2","NLP"],
   demoUrl: "#",
   githubUrl: "https://github.com/Darchen-lang/robolimb",
